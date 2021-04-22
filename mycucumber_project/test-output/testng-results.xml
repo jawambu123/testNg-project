@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="3515" started-at="2021-04-11T03:19:18 PDT" finished-at="2021-04-11T03:19:21 PDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="3515" started-at="2021-04-11T03:19:18 PDT" finished-at="2021-04-11T03:19:21 PDT">
+      <class name="cucumberOptions.TestRunners">
+        <test-method status="PASS" signature="backgrounds()[pri:0, instance:cucumberOptions.TestRunners@71bbf57e]" name="backgrounds" duration-ms="3484" started-at="2021-04-11T03:19:18 PDT" finished-at="2021-04-11T03:19:21 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- backgrounds -->
+      </class> <!-- cucumberOptions.TestRunners -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
